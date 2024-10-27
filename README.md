@@ -39,14 +39,19 @@ Esses gráficos são salvos na pasta images, podendo ser adicionados ao GitHub p
 
  Gráfico de Vendas por Produto
 
+
+ ![Figure_1](https://github.com/user-attachments/assets/ef2538e7-c6e6-4728-9204-bb0cae620679)
+
+ 
 Este gráfico de barras mostra a quantidade de vendas de cada produto, ajudando a identificar os itens mais populares.
 
 
-![Figure_1](https://github.com/user-attachments/assets/ef2538e7-c6e6-4728-9204-bb0cae620679)
-
-
  Gráfico de Níveis de Estoque
-   
+
+
+![Figure_2](https://github.com/user-attachments/assets/c2e7c28d-0316-4290-850e-998eee74a56d)
+
+
 Este gráfico de barras exibe o nível de estoque atual de cada produto, auxiliando na identificação de produtos com baixo estoque.
 
 
