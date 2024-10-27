@@ -46,6 +46,8 @@ Esses gráficos são salvos na pasta images, podendo ser adicionados ao GitHub p
 Este gráfico de barras mostra a quantidade de vendas de cada produto, ajudando a identificar os itens mais populares.
 
 
+
+
  Gráfico de Níveis de Estoque
 
 
