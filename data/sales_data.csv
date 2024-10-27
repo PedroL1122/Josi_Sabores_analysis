@@ -1,0 +1,16 @@
+data,produto,quantidade,preco_unitario
+2024-01-01,Bolo de Morango,10,30.0
+2024-01-03,Torta de Limão,5,25.0
+2024-01-07,Pudim,8,15.0
+2024-01-10,Brownie,12,12.0
+2024-01-15,Bolo de Chocolate,7,35.0
+2024-02-01,Torta de Limão,10,25.0
+2024-02-05,Pudim,6,15.0
+2024-02-08,Brownie,15,12.0
+2024-02-11,Bolo de Morango,9,30.0
+2024-03-01,Bolo de Cenoura,8,20.0
+2024-03-04,Bolo de Chocolate,11,35.0
+2024-03-09,Torta de Limão,7,25.0
+2024-03-15,Pudim,10,15.0
+2024-03-20,Bolo de Cenoura,5,20.0
+2024-03-25,Bolo de Morango,12,30.0
