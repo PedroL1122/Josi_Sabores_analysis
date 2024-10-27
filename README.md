@@ -33,9 +33,9 @@ Gráfico de barras exibindo os níveis de estoque de cada produto.
 Esses gráficos são salvos na pasta images, podendo ser adicionados ao GitHub para facilitar a visualização dos dados analisados.
 
 
-#Resultados da Análise
+# Resultados da Análise
 
-#Gráficos Gerados
+# Gráficos Gerados
 
  Gráfico de Vendas por Produto
 
