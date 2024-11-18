@@ -1,4 +1,4 @@
-# Análise de Dados para Confeitaria Doce Delícia
+# Análise de Dados para Confeitaria Josi Sabores
 
 
 Uma análise de dados simples e completa para a Confeitaria Doce Delícia, uma pequena empresa com 5 funcionários. Este projeto visa analisar os dados de vendas e estoque para fornecer insights úteis, como produtos mais vendidos, lucros, níveis de estoque e outros indicadores importantes para a gestão.
