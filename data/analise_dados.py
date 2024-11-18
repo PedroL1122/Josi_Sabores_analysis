@@ -1,7 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-sales_data = pd.read_csv("C:/Users/peque/OneDrive/Documentos/doce_delicia_analysis/data/sales_data.csv")
+sales_data = pd.read_csv("C:/Users/peque/OneDrive/Documentos/Josi_Sabores_analysis/data/sales_data.csv")
 
 
 # Carregar os dados de vendas e estoque
